@@ -1,2 +1,3 @@
 # JavaTasksSolved
-java
+
+Learning Java for beginners.
