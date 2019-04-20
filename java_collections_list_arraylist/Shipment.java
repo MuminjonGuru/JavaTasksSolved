@@ -1,5 +1,3 @@
-package java_collections_part2;
-
 import java.util.*;
 
 public class Shipment implements Iterable<Product> {
