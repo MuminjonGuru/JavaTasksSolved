@@ -1,3 +1,3 @@
 # JavaTasksSolved
 
-Learning Java for beginners.
+Grinding to be a JavaGuru
